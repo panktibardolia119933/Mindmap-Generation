@@ -1,0 +1,45 @@
+﻿ID,Title,Authors,Authors Groups,Body,Scaffold(s),Keyword(s),Created,Views,Buildson,Edit By,Read By
+5ec633bf9d463143d4866595,Welcome,M1,"M1:test group 1, test group 2",,,,"5/21/2020, 3:54:39 AM",,,"KF Admin, Pankti Bardolia, test admin, first last, hello jiiii","Pankti Bardolia, first last"
+5ec633c79d463143d48665ba,note1,"M1, W1","M1:test group 1, test group 2; W1:test group 1",Pankti Bardolia Pankti Pink Pankti Pink,,,"5/21/2020, 3:54:47 AM",riseabove:,,KF Admin,KF Admin
+5ec633e79d463143d48665c5,note2,M1,"M1:test group 1, test group 2",,,,"5/21/2020, 3:55:19 AM","riseabove:, Welcome",,KF Admin,KF Admin
+5ec634119d463143d48665d0,note3,M1,"M1:test group 1, test group 2",,,,"5/21/2020, 3:56:01 AM",riseabove:,,KF Admin,KF Admin
+5ec6f01850791b35c3587689,note4,M1,"M1:test group 1, test group 2",Pankti Blue Pankti Blue Pankti Blue,,,"5/21/2020, 5:18:16 PM",riseabove:,,KF Admin,KF Admin
+5ec6f0ac50791b35c3587694,note5,M1,"M1:test group 1, test group 2",Pankti Pink Pankti Pink Pankti Pink,,,"5/21/2020, 5:20:44 PM",riseabove:,,KF Admin,KF Admin
+5ee80b06f8871020a3d82da2,test 1,M1,"M1:test group 1, test group 2",,,,"6/15/2020, 7:57:58 PM",riseabove:,,KF Admin,KF Admin
+5ee80b17f8871020a3d82daf,test 2,M1,"M1:test group 1, test group 2",This is Test 2,,,"6/15/2020, 7:58:15 PM",riseabove:,,KF Admin,KF Admin
+5ee80b36f8871020a3d82dbe,riseabove:,M1,"M1:test group 1, test group 2",,,,"6/15/2020, 7:58:46 PM",,,KF Admin,
+5ee80b36f8871020a3d82dc0,Riseabove,M1,"M1:test group 1, test group 2",,,,"6/15/2020, 7:58:46 PM",,,KF Admin,KF Admin
+5ee80c25f8871020a3d82dd7,riseabove:,M1,"M1:test group 1, test group 2",,,,"6/15/2020, 8:02:45 PM",,,"KF Admin, Pankti Bardolia",
+5ee80c25f8871020a3d82dd9,riseAbove test 1,M1,"M1:test group 1, test group 2","Hii, My first riseAbove 1, 2, 3",,,"6/15/2020, 8:02:45 PM","Welcome, veiw1, veiw1, Welcome",,KF Admin,"KF Admin, Pankti Bardolia"
+5ee81aa5260b492cb372f4b9,test singapore 1,W6,W6:test group 2,Singapore local 1,,,"6/15/2020, 9:04:37 PM","riseabove:, Welcome, Welcome",,Pankti Bardolia,Pankti Bardolia
+5ee81ac6260b492cb372f4c6,test singapore 2,W6,W6:test group 2,Singapore 2,,,"6/15/2020, 9:05:10 PM","riseabove:, riseabove:",,Pankti Bardolia,"Pankti Bardolia, KF Admin"
+5ee81aef260b492cb372f4d3,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 9:05:51 PM",,,"Pankti Bardolia, KF Admin",
+5ee81aef260b492cb372f4d5,Riseabove,W6,W6:test group 2,I am contributing,,,"6/15/2020, 9:05:51 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee82d60260b492cb372f4f6,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 10:24:32 PM",,,Pankti Bardolia,
+5ee82d60260b492cb372f4f8,test singapore riseabove 2,W6,W6:test group 2,rise Above test2,,,"6/15/2020, 10:24:32 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee82d67260b492cb372f4ff,test singapore 21,W6,W6:test group 2,Second test case,,,"6/15/2020, 10:24:39 PM","riseabove:, riseabove:, riseabove:, riseabove:",,Pankti Bardolia,Pankti Bardolia
+5ee82d88260b492cb372f50c,test singapore 22,W6,W6:test group 2,2nd test case,,,"6/15/2020, 10:25:12 PM","riseabove:, riseabove:, riseabove:",,Pankti Bardolia,Pankti Bardolia
+5ee838e1260b492cb372f53e,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:13:37 PM",,,Pankti Bardolia,
+5ee838e1260b492cb372f540,debug point RiseAbove,W6,W6:test group 2,hello,,,"6/15/2020, 11:13:37 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee83e883ae18e4270dbce11,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:37:44 PM",,,Pankti Bardolia,
+5ee83e883ae18e4270dbce13,Final test,W6,W6:test group 2,Final Test,,,"6/15/2020, 11:37:44 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee83ee33ae18e4270dbce32,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:39:15 PM",,,Pankti Bardolia,
+5ee83ee43ae18e4270dbce34,Riseabove,W6,W6:test group 2,,,,"6/15/2020, 11:39:16 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee83f213ae18e4270dbce47,final test 1,W6,W6:test group 2,First note,,,"6/15/2020, 11:40:17 PM","riseabove:, riseabove:, riseabove:",,Pankti Bardolia,Pankti Bardolia
+5ee83fc03ae18e4270dbce5f,final test 2,W6,W6:test group 2,asdasdasd,,,"6/15/2020, 11:42:56 PM",riseabove:,,Pankti Bardolia,Pankti Bardolia
+5ee83fce3ae18e4270dbce6a,final test 3,W6,W6:test group 2,"Should work now
+[ -- ]",[New Information],,"6/15/2020, 11:43:10 PM",riseabove:,,Pankti Bardolia,"Pankti Bardolia, KF Admin"
+5ee83ff83ae18e4270dbce7e,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:43:52 PM",,,Pankti Bardolia,
+5ee83ff83ae18e4270dbce80,Riseabove,W6,W6:test group 2,,,,"6/15/2020, 11:43:52 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee840943ae18e4270dbce97,note 4,W6,W6:test group 2,jhellop p ainsocaosbca,,,"6/15/2020, 11:46:28 PM","riseabove:, riseabove:, riseabove:",,Pankti Bardolia,Pankti Bardolia
+5ee840b53ae18e4270dbcea4,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:47:01 PM",,,Pankti Bardolia,
+5ee840b53ae18e4270dbcea6,Riseabove,W6,W6:test group 2,vjhvh.vkj,,,"6/15/2020, 11:47:01 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee8412a3ae18e4270dbcec6,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:48:58 PM",,,Pankti Bardolia,
+5ee8412a3ae18e4270dbcec8,Riseabove,W6,W6:test group 2,,,,"6/15/2020, 11:48:58 PM",,,Pankti Bardolia,
+5ee841513ae18e4270dbcee1,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:49:37 PM",,,"Pankti Bardolia, KF Admin",
+5ee841513ae18e4270dbcee3,hello should work,W6,W6:test group 2,gjgclgclgl,,,"6/15/2020, 11:49:37 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee842043ae18e4270dbcf0b,hello 123,W6,W6:test group 2,Nice try,,,"6/15/2020, 11:52:36 PM","riseabove:, riseabove:, Welcome",,Pankti Bardolia,"Pankti Bardolia, KF Admin"
+5ee842173ae18e4270dbcf16,hey hey 123,W6,W6:test group 2,Nice try,,,"6/15/2020, 11:52:55 PM","riseabove:, riseabove:, Welcome",,Pankti Bardolia,"Pankti Bardolia, KF Admin"
+5ee8425a3ae18e4270dbcf26,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:54:02 PM",,,"Pankti Bardolia, KF Admin",
+5ee8425a3ae18e4270dbcf28,ra ra,W6,W6:test group 2,asdasda,,,"6/15/2020, 11:54:02 PM",,,Pankti Bardolia,Pankti Bardolia
+5ee8429d3ae18e4270dbcf48,riseabove:,W6,W6:test group 2,,,,"6/15/2020, 11:55:09 PM",,,Pankti Bardolia,
