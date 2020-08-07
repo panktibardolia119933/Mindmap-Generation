@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { Graph } from "react-d3-graph";
 import { Tree } from 'react-d3-tree'
 
 class MindMap extends Component {
@@ -10,29 +9,18 @@ class MindMap extends Component {
     render() {
         return (
             <>
-                <span>MindMap works!</span>
+                <h3 className="pd-4-top pd-1-left">MindMap Graph</h3>
+                <span className="sz-1 primary-800 pd-1-left">Click here to Clear Screen <a href="/"><i class="fa fa-refresh" aria-hidden="true"></i></a></span>
                 {
                     this.props.drawMap ?
                         (<>
                             {console.log("inside", this.props.mindMap)}
-                            <Tree data={this.props.mindMap} orientation={'vertical'} onClick={this.props.onClickNode} pathFunc="straight" collapsible={false}/>
-
-                            {/* <Graph
-                                id="graph-id" // id is mandatory, if no id is defined rd3g will throw an error
-                                data={this.props.mindMap}
-                                config={this.props.myConfig}
-                                onClickNode={this.props.onClickNode}
-                            onDoubleClickNode={onDoubleClickNode}
-                            onRightClickNode={onRightClickNode}
-                            onClickGraph={onClickGraph}
-                            onClickLink={onClickLink}
-                            onRightClickLink={onRightClickLink}
-                            onMouseOverNode={onMouseOverNode}
-                            onMouseOutNode={onMouseOutNode}
-                            onMouseOverLink={onMouseOverLink}
-                            onMouseOutLink={onMouseOutLink}
-                            onNodePositionChange={onNodePositionChange}
-                            /> */}
+                            <Tree data={this.props.mindMap} orientation={'vertical'}
+                                onClick={this.props.onClickNode}
+                                pathFunc="straight"
+                                collapsible={false}
+                                translate={this.props.myTranslate}
+                            />
                         </>)
                         : null
                 }

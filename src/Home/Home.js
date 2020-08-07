@@ -3,6 +3,7 @@ import { Row, Col, Container, Button } from 'react-bootstrap'
 
 import TreeMap from './Tree/Tree'
 import MindMap from './MindMap/MindMap'
+import TopNavBar from './../Components/TopNavBar/TopNavBar'
 
 class Home extends Component {
 
@@ -41,10 +42,6 @@ class Home extends Component {
         },
     ];
 
-    // TODO User input from Node to node
-
-    drawMap = false;
-
     constructor() {
         super()
         this.state = {
@@ -57,6 +54,7 @@ class Home extends Component {
         this.createMindMap(node)
     }
 
+    // CREATE MINDMAP
     createMindMap = (node) => {
         let myMindMap = {}
         let nodeChildren = []
@@ -76,7 +74,6 @@ class Home extends Component {
                     }
                 ]
             }
-
         }
         else {
             myMindMap = {
@@ -92,15 +89,23 @@ class Home extends Component {
     }
 
     render() {
+        let myTranslate = {
+            x: 350,
+            y: 200
+        }
         return (
-            <Row>
-                <Col>
-                    <TreeMap tree={this.myTreeData} onClickNode={this.onClickNode} />
-                </Col>
-                <Col>
-                    <MindMap mindMap={this.state.myMindMap} drawMap={this.state.drawMap} />
-                </Col>
-            </Row>
+            <div>
+                <TopNavBar />
+                <Row>
+                    <Col>
+                        <TreeMap tree={this.myTreeData} onClickNode={this.onClickNode} myTranslate={myTranslate} />
+                    </Col>
+                    <Col>
+                        <MindMap mindMap={this.state.myMindMap} drawMap={this.state.drawMap} myTranslate={myTranslate} />
+                    </Col>
+                </Row>
+            </div>
+
         );
     }
 

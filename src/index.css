@@ -19,3 +19,52 @@ code {
   width: 100% !important;
   background-color: yellow;
 }
+
+/* COLORS */
+.primary-bg-700{
+  background-color: #344955;
+}
+
+.primary-bg-800{
+  background-color: #232F34;
+}
+
+.primary-bg-600{
+  background-color: #4A6572;
+}
+
+.secondary-bg-500{
+  background-color: #F9AA33;
+}
+
+.primary-700{
+  color: #344955;
+}
+
+.primary-800{
+  color: #232F34;
+}
+
+.primary-600{
+  color: #4A6572;
+}
+
+.secondary-500{
+  color: #F9AA33;
+}
+
+.sz-05{
+  font-size: 0.5rem !important;
+}
+
+.sz-1{
+  font-size: 1rem !important;
+}
+
+.pd-4-top{
+  padding-top: 4rem !important;
+}
+
+.pd-1-left{
+  padding-left: 1rem !important;
+}
